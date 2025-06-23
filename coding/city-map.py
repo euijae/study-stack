@@ -18,23 +18,27 @@ class CityMap:
     def getNearestCity(self, query: str) -> str:
         if query not in self.city_to_coord:
             return ""
-        
-        nearest_city, nearest_distance = "", float('inf')
-        x, y = self.city_to_coord[query]
 
-        for city, city_x in self.y_map.get(y, []):
-            if city != query:
-                dist = abs(city_x-x)
-                if nearest_distance > dist or (nearest_distance == dist and city < nearest_city):
-                    nearest_distance = dist
-                    nearest_city = city
-        
+        x, y = self.city_to_coord[query]
+        nearest_dist, nearest_city = float('inf'), ""
+
         for city, city_y in self.x_map.get(x, []):
-            if city != query:
-                dist = abs(city_y-y)
-                if nearest_distance > dist or (nearest_distance == dist and city < nearest_city):
-                    nearest_distance = dist
-                    nearest_city = city 
+            if city == query:
+                continue
+
+            curr_dist = abs(city_y-y)
+            if nearest_dist > curr_dist or nearest_dist == curr_dist and nearest_city > city:
+                nearest_dist = curr_dist
+                nearest_city = city
+        
+        for city, city_x in self.y_map.get(y, []):
+            if city == query:
+                continue
+
+            curr_dist = abs(city_x-x)
+            if nearest_dist > curr_dist or nearest_dist == curr_dist and nearest_city > city:
+                nearest_dist = curr_dist
+                nearest_city = city
 
         return nearest_city
 
