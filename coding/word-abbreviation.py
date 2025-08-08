@@ -8,16 +8,16 @@ def recurse(word, abbr, w, a):
         if w > len(word):
             return False
         return recurse(word, abbr, w, a)
-    
+
     if a == len(abbr):
         return w == len(word)
     
     if abbr[a] == '*':
-        return recurse(word, abbr, w, a + 1) or recurse(word, abbr, w + 1, a)
+        return recurse(word, abbr, w, a+1) or recurse(word, abbr, w+1, a)
     
-    if w < len(word) and word[w] == abbr[a]:
-        return recurse(word, abbr, w + 1, a + 1)
-    
+    if abbr[a] == word[w]:
+        return recurse(word, abbr, w+1, a+1)
+
     return False
 
 def validWordAbbreviation(word, abbr):
