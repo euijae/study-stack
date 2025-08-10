@@ -13,12 +13,10 @@ class Solution:
         heap = []
         for i, num in enumerate(nums):
             dsum = self.compute(num)
-            print(dsum)
             heapq.heappush(heap, (-dsum, -i, num))
             if len(heap) > k:
                 heapq.heappop(heap)
-        
-        return [num for _, _, num in heap]
+        return [num for _, _, num in heap][::-1]
 
 solution = Solution()
-print(solution.kth_smallest_digit_sum([111, 84, 21, 12, 3, 56, 2001, 10000], 2))
+print(solution.kth_smallest_digit_sum([111, 84, 21, 12, 3, 56, 2001, 10000], 3))
