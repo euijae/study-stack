@@ -1,0 +1,1411 @@
+Leetcode 1249. Minimum Remove to Make Valid Parentheses																									
+																									
+Coding																									
+Mid-level-Senior, Manager																									
+																									
+Reported by 41 users																									
+																									
+Were you asked this too?																									
+Leetcode 227. Basic Calculator II																									
+																									
+Coding																									
+Junior-Staff, Manager																									
+																									
+Reported by 38 users																									
+																									
+Were you asked this too?																									
+Leetcode 528. Random Pick with Weight																									
+																									
+Coding																									
+Mid-level-Staff, Manager																									
+																									
+Reported by 36 users																									
+																									
+Were you asked this too?																									
+Leetcode 314. Binary Tree Vertical Order Traversal																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 35 users																									
+																									
+Were you asked this too?																									
+Leetcode 1091. Shortest Path in Binary Matrix																									
+																									
+Coding																									
+Junior-Staff, Manager																									
+																									
+Reported by 30 users																									
+																									
+Were you asked this too?																									
+Leetcode 680. Valid Palindrome II																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 30 users																									
+																									
+Were you asked this too?																									
+Leetcode 236. Lowest Common Ancestor of a Binary Tree																									
+																									
+Coding																									
+Mid-level-Staff, Manager																									
+																									
+Reported by 28 users																									
+																									
+Were you asked this too?																									
+Leetcode 408. Valid Word Abbreviation																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 27 users																									
+																									
+Were you asked this too?																									
+Leetcode 56. Merge Intervals																									
+																									
+Coding																									
+Mid-level-Staff, Manager																									
+																									
+Reported by 25 users																									
+																									
+Were you asked this too?																									
+Leetcode 1650. Lowest Common Ancestor of a Binary Tree III																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 25 users																									
+																									
+Were you asked this too?																									
+Leetcode 71. Simplify Path																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 25 users																									
+																									
+Were you asked this too?																									
+Leetcode 543. Diameter of Binary Tree																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 21 users																									
+																									
+Were you asked this too?																									
+Leetcode 560. Subarray Sum Equals K																									
+																									
+Coding																									
+Mid-level-Staff, Manager																									
+																									
+Reported by 21 users																									
+																									
+Were you asked this too?																									
+Leetcode 65. Valid Number																									
+																									
+Coding																									
+Junior-Staff																									
+																									
+Reported by 20 users																									
+																									
+Were you asked this too?																									
+Leetcode 215. Kth Largest Element in an Array																									
+																									
+Coding																									
+Mid-level-Staff, Manager																									
+																									
+Reported by 20 users																									
+																									
+Were you asked this too?																									
+Leetcode 88. Merge Sorted Array																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 19 users																									
+																									
+Were you asked this too?																									
+Leetcode 162. Find Peak Element																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 19 users																									
+																									
+Were you asked this too?																									
+Leetcode 50. Pow(x, n)																									
+																									
+Coding																									
+Mid-level-Staff, Manager																									
+																									
+Reported by 19 users																									
+																									
+Were you asked this too?																									
+Leetcode 347. Top K Frequent Elements																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 18 users																									
+																									
+Were you asked this too?																									
+Leetcode 339. Nested List Weight Sum																									
+																									
+Coding																									
+Mid-level-Staff, Manager																									
+																									
+Reported by 18 users																									
+																									
+Were you asked this too?																									
+Leetcode 1762. Buildings With an Ocean View																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 18 users																									
+																									
+Were you asked this too?																									
+Leetcode 199. Binary Tree Right Side View																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 18 users																									
+																									
+Were you asked this too?																									
+Leetcode 125. Valid Palindrome																									
+																									
+Coding																									
+Mid-level-Staff, Manager																									
+																									
+Reported by 17 users																									
+																									
+Were you asked this too?																									
+Leetcode 791. Custom Sort String																									
+																									
+Coding																									
+Junior-Staff																									
+																									
+Reported by 17 users																									
+																									
+Were you asked this too?																									
+Leetcode 23. Merge k Sorted Lists																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 16 users																									
+																									
+Were you asked this too?																									
+Leetcode 973. K Closest Points to Origin																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 12 users																									
+																									
+Were you asked this too?																									
+Leetcode 938. Range Sum of BST																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 11 users																									
+																									
+Were you asked this too?																									
+Leetcode 827. Making A Large Island																									
+																									
+Coding																									
+Mid-level-Principal																									
+																									
+Reported by 11 users																									
+																									
+Were you asked this too?																									
+Leetcode 1004. Max Consecutive Ones III																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 10 users																									
+																									
+Were you asked this too?																									
+Leetcode 1570. Dot Product of Two Sparse Vectors																									
+																									
+Coding																									
+Mid-level-Staff, Manager																									
+																									
+Reported by 10 users																									
+																									
+Were you asked this too?																									
+Leetcode 987. Vertical Order Traversal of a Binary Tree																									
+																									
+Coding																									
+Mid-level-Staff, Manager																									
+																									
+Reported by 10 users																									
+																									
+Were you asked this too?																									
+Leetcode 146. LRU Cache																									
+																									
+Coding																									
+Mid-level-Senior, Manager																									
+																									
+Reported by 8 users																									
+																									
+Were you asked this too?																									
+Leetcode 415. Add Strings																									
+																									
+Coding																									
+Mid-level-Senior, Manager																									
+																									
+Reported by 8 users																									
+																									
+Were you asked this too?																									
+Leetcode 138. Copy List with Random Pointer																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 8 users																									
+																									
+Were you asked this too?																									
+Leetcode 1539. Kth Missing Positive Number																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 8 users																									
+																									
+Were you asked this too?																									
+Leetcode 523. Continuous Subarray Sum																									
+																									
+Coding																									
+Mid-level-Staff, Manager																									
+																									
+Reported by 7 users																									
+																									
+Were you asked this too?																									
+Leetcode 863. All Nodes Distance K in Binary Tree																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 7 users																									
+																									
+Were you asked this too?																									
+Leetcode 31. Next Permutation																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 6 users																									
+																									
+Were you asked this too?																									
+Leetcode 301. Remove Invalid Parentheses																									
+																									
+Coding																									
+Mid-level, Staff																									
+																									
+Reported by 6 users																									
+																									
+Were you asked this too?																									
+Leetcode 958. Check Completeness of a Binary Tree																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 6 users																									
+																									
+Were you asked this too?																									
+Leetcode 26. Remove Duplicates from Sorted Array																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 6 users																									
+																									
+Were you asked this too?																									
+Leetcode 207. Course Schedule																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 5 users																									
+																									
+Were you asked this too?																									
+Leetcode 76. Minimum Window Substring																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 5 users																									
+																									
+Were you asked this too?																									
+Leetcode 21. Merge Two Sorted Lists																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 5 users																									
+																									
+Were you asked this too?																									
+Leetcode 921. Minimum Add to Make Parentheses Valid																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 5 users																									
+																									
+Were you asked this too?																									
+Leetcode 133. Clone Graph																									
+																									
+Coding																									
+Mid-level, Staff																									
+																									
+Reported by 5 users																									
+																									
+Were you asked this too?																									
+Leetcode 721. Accounts Merge																									
+																									
+Coding																									
+Junior-Senior																									
+																									
+Reported by 5 users																									
+																									
+Were you asked this too?																									
+Leetcode 480. Sliding Window Median																									
+																									
+Coding																									
+Mid-level-Senior, Manager																									
+																									
+Reported by 5 users																									
+																									
+Were you asked this too?																									
+Leetcode 1047. Remove All Adjacent Duplicates In String																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 5 users																									
+																									
+Were you asked this too?																									
+Leetcode 20. Valid Parentheses																									
+																									
+Coding																									
+Senior-Staff, Manager																									
+																									
+Reported by 4 users																									
+																									
+Were you asked this too?																									
+Leetcode 426. Convert Binary Search Tree to Sorted Doubly Linked List																									
+																									
+Coding																									
+Mid-level, Staff																									
+																									
+Reported by 4 users																									
+																									
+Were you asked this too?																									
+Leetcode 708. Insert into a Sorted Circular Linked List																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 4 users																									
+																									
+Were you asked this too?																									
+Leetcode 986. Interval List Intersections																									
+																									
+Coding																									
+Junior, Senior																									
+																									
+Reported by 4 users																									
+																									
+Were you asked this too?																									
+Leetcode 1216. Valid Palindrome III																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 4 users																									
+																									
+Were you asked this too?																									
+Leetcode 19. Remove Nth Node From End of List																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 4 users																									
+																									
+Were you asked this too?																									
+Leetcode 163. Missing Ranges																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 4 users																									
+																									
+Were you asked this too?																									
+Leetcode 283. Move Zeroes																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 4 users																									
+																									
+Were you asked this too?																									
+Leetcode 200. Number of Islands																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 62. Unique Paths																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 2625. Flatten Deeply Nested Array																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 74. Search a 2D Matrix																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 112. Path Sum																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 121. Best Time to Buy and Sell Stock																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 239. Sliding Window Maximum																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 282. Expression Add Operators																									
+																									
+Coding																									
+Mid-level, Staff																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 498. Diagonal Traverse																									
+																									
+Coding																									
+Mid-level-Staff																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 139. Word Break																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 1424. Diagonal Traverse II																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 129. Sum Root to Leaf Numbers																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 1971. Find if Path Exists in Graph																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 1011. Capacity To Ship Packages Within D Days																									
+																									
+Coding																									
+Staff																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Design a Graph Storage and Cloning System																									
+																									
+Design a class that can store a graph with edge and node relations and includes a method to clone the graph, returning a new copy. Candidates are expected to communicate their thought process and explain their code while developing. Once coding is complete, they should identify sufficient test cases to cover all important scenarios and trace the code using one or two of them.																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 249. Group Shifted Strings																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 1541. Minimum Insertions to Balance a Parentheses String																									
+																									
+Coding																									
+Mid-level, Staff																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 8. String to Integer (atoi)																									
+																									
+Coding																									
+Mid-level-Senior, Manager																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 246. Strobogrammatic Number																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 398. Random Pick Index																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 723. Candy Crush																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 3 users																									
+																									
+Were you asked this too?																									
+Leetcode 127. Word Ladder																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 568. Maximum Vacation Days																									
+																									
+Coding																									
+Mid-level, Staff																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 78. Subsets																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 1209. Remove All Adjacent Duplicates in String II																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 545. Boundary of Binary Tree																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 1293. Shortest Path in a Grid with Obstacles Elimination																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 2330. Valid Palindrome IV																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 2484. Count Palindromic Subsequences																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 3291. Minimum Number of Valid Strings to Form Target I																									
+																									
+Coding																									
+Mid-level-Senior																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 9. Palindrome Number																									
+																									
+Coding																									
+Mid-level, Staff																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 1275. Find Winner on a Tic Tac Toe Game																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 34. Find First and Last Position of Element in Sorted Array																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 44. Wildcard Matching																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 1135. Connecting Cities With Minimum Cost																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 1094. Car Pooling																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 1074. Number of Submatrices That Sum to Target																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 102. Binary Tree Level Order Traversal																									
+																									
+Coding																									
+Senior-Staff																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 116. Populating Next Right Pointers in Each Node																									
+																									
+Coding																									
+Mid-level, Staff																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 126. Word Ladder II																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Compare Strings Formed by Linked Lists																									
+																									
+Given two linked lists where each node contains a string, determine if the concatenated strings formed by the linked lists are equal. For example, if list A is 'he'->''->`ll'->'o'->'' and list B is 'hell'->'o', the result should be true.																									
+Coding																									
+Senior																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 536. Construct Binary Tree from String																									
+																									
+Coding																									
+Senior-Staff																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Design a Data Structure for Stock Data Retrieval																									
+																									
+Design a data structure to organize stock data and retrieve it based on stock name or stock name and date in ascending order of date.																									
+Coding																									
+Mid-level																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 529. Minesweeper																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 295. Find Median from Data Stream																									
+																									
+Coding																									
+Junior, Staff																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 371. Sum of Two Integers																									
+																									
+Coding																									
+Senior-Staff																									
+																									
+Reported by 2 users																									
+																									
+Were you asked this too?																									
+Leetcode 1482. Minimum Number of Days to Make m Bouquets																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 230. Kth Smallest Element in a BST																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 704. Binary Search																									
+																									
+Coding																									
+Manager																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 380. Insert Delete GetRandom O(1)																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 2402. Meeting Rooms III																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 253. Meeting Rooms II																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 49. Group Anagrams																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 269. Alien Dictionary																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 874. Walking Robot Simulation																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Remove Duplicates with Order Preservation																									
+																									
+Given an array, remove duplicate elements while maintaining a specific order (either original or reverse) of the remaining elements. Return the modified array with duplicates removed while preserving the required ordering of unique elements.																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 53. Maximum Subarray																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 2050. Parallel Courses III																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 210. Course Schedule II																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 346. Moving Average from Data Stream																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 417. Pacific Atlantic Water Flow																									
+																									
+Coding																									
+Junior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 2812. Find the Safest Path in a Grid																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 2. Add Two Numbers																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 4. Median of Two Sorted Arrays																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 1233. Remove Sub-Folders from the Filesystem																									
+																									
+Coding																									
+Staff																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 113. Path Sum II																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 735. Asteroid Collision																									
+																									
+Coding																									
+Junior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 556. Next Greater Element III																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 251. Flatten 2D Vector																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 252. Meeting Rooms																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 290. Word Pattern																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 297. Serialize and Deserialize Binary Tree																									
+																									
+Coding																									
+Staff																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 40. Combination Sum II																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 901. Online Stock Span																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 38. Count and Say																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 32. Longest Valid Parentheses																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 140. Word Break II																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 772. Basic Calculator III																									
+																									
+Coding																									
+Staff																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 766. Toeplitz Matrix																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 348. Design Tic-Tac-Toe																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 166. Fraction to Recurring Decimal																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 752. Open the Lock																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 352. Data Stream as Disjoint Intervals																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 1313. Decompress Run-Length Encoded List																									
+																									
+Coding																									
+Staff																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 1329. Sort the Matrix Diagonally																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 2247. Maximum Cost of Trip With K Highways																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 15. 3Sum																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 2312. Selling Pieces of Wood																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 530. Minimum Absolute Difference in BST																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 1609. Even Odd Tree																									
+																									
+Coding																									
+Staff																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 14. Longest Common Prefix																									
+																									
+Coding																									
+Staff																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 3. Longest Substring Without Repeating Characters																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 1485. Clone Binary Tree With Random Pointer																									
+																									
+Coding																									
+Staff																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 1662. Check If Two String Arrays are Equivalent																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 1443. Minimum Time to Collect All Apples in a Tree																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 266. Palindrome Permutation																									
+																									
+Coding																									
+Staff																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 3250. Find the Count of Monotonic Pairs I																									
+																									
+Coding																									
+Staff																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 414. Third Maximum Number																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Go Scoreboard																									
+																									
+Given a matrix representing a Go board with the following types: '' - empty, 'w' - white, 'b' - black, return a final score for the winner of the board. The score is just the number of cells that make up its outer shell. Keep in mind, if a structure is surrounded on all sides by the opposite color, its points are forfeit. Follow-up: for the white side, write a function that returns the single empty cell '' that the player should add a 'w' to in order to increase their score the most.																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 1926. Nearest Exit from Entrance in Maze																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 2265. Count Nodes Equal to Average of Subtree																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 1985. Find the Kth Largest Integer in the Array																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 2854. Rolling Average Steps																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 1108. Defanging an IP Address																									
+																									
+Coding																									
+Manager																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 63. Unique Paths II																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 311. Sparse Matrix Multiplication																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 494. Target Sum																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 1206. Design Skiplist																									
+																									
+Coding																									
+Staff																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 1060. Missing Element in Sorted Array																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 48. Rotate Image																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 46. Permutations																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 329. Longest Increasing Path in a Matrix																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 103. Binary Tree Zigzag Level Order Traversal																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 109. Convert Sorted List to Binary Search Tree																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Optimize Meeting Point for Friends in a Graph																									
+																									
+Given a graph with n friends at different locations and m possible meeting points (restaurants/cafes), find the optimal meeting location. The goal is to minimize either the total travel time or the maximum time for any friend to reach the meeting point. Each edge in the graph represents a path with unit distance taking unit time to travel.																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 468. Validate IP Address																									
+																									
+Coding																									
+Mid-level																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 2164. Sort Even and Odd Indices Independently																									
+																									
+Coding																									
+Junior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 43. Multiply Strings																									
+																									
+Coding																									
+Senior																									
+																									
+Reported by 1 user																									
+																									
+Were you asked this too?																									
+Leetcode 953. Verifying an Alien Dictionary																									
+Leetcode 445. Add Two Numbers II																									
+Leetcode 934. Shortest Bridge																									
+																									
+																									
