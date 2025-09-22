@@ -1,6 +1,6 @@
 # Read from 'your_file.txt', write to 'output.txt'
 def meta_tagged():
-    with open("meta-tagged-raw.txt", "r") as infile, open("hellointerview-tagged.txt", "w") as outfile:
+    with open("../meta-tagged-raw.txt", "r") as infile, open("../hellointerview-tagged.txt", "w") as outfile:
         for line in infile:
             line = line.strip()
             if line.startswith("Leetcode"):
@@ -12,13 +12,13 @@ def difference():
     setH = set()
 
     # meta tagged
-    with open("meta-tagged.txt", "r") as infile:
+    with open("../meta-tagged.txt", "r") as infile:
         for line in infile:
             line = line.strip()
             setW.add(line)
     
     # hello interview tagged
-    with open("hellointerview-tagged.txt", "r") as infile, open("intersection.txt", "w") as outfile, open("only-hellointerview.txt", "w") as outfile1:
+    with open("../hellointerview-tagged.txt", "r") as infile, open("../intersection.txt", "w") as outfile, open("../only-hellointerview.txt", "w") as outfile1:
         for line in infile:
             line = line.strip()
             setH.add(line)
